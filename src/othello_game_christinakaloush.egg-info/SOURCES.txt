@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/othello_game_christinakaloush.egg-info/PKG-INFO
+src/othello_game_christinakaloush.egg-info/SOURCES.txt
+src/othello_game_christinakaloush.egg-info/dependency_links.txt
+src/othello_game_christinakaloush.egg-info/top_level.txt
